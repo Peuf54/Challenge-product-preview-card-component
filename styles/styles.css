@@ -67,6 +67,7 @@ main {
 
 @media screen and (max-width: 800px) {
     .main-article {
+        margin-top: 25px;
         width: clamp(350px, 90%, 750px);
 
         flex-direction: column;
